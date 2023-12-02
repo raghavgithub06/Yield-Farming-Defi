@@ -8,7 +8,7 @@ Yield Farming Defi allows users in lending or staking cryptocurrency coins or to
 - [x] User can stake tether token.
 - [x] User can unstake tether token.
 - [x] Admin can send reword token.
-- [x] If user stake 10 token then he will get same amount of reword token back .
+- [x] If user stake 10 token then he will get same amount of reward token back .
 - [x] Connect with waller.
 
 ### How to run :runner: :
